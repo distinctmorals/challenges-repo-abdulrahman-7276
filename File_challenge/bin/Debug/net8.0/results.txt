@@ -1,0 +1,5 @@
+Summary of Office Files:
+Excel files (.xlsx): Count = 0, Total Size = 0 bytes
+Word files (.docx): Count = 0, Total Size = 0 bytes
+PowerPoint files (.pptx): Count = 0, Total Size = 0 bytes
+Total Office files: Count = 0, Total Size = 0 bytes
